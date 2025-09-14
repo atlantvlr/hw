@@ -5,4 +5,5 @@
  [репрезиторий мой] (https://github.com/atlantvlr/hw.git)
 * не сразу все было понятно , приходилось прокликивать некторые номера туда и обратно ( просто перебором понимал что-то) + нет осознания , где будет использоваться это , вроде c++ мы начинали.
 * Но в целом большую часть усвоил , хотя придется подгляывать при ипсользовании 100% , снчала точно
-* <img width="2555" height="1439" alt="image" src="https://github.com/user-attachments/assets/a4ff8d52-aee7-49d2-8d4c-ec97f6a6fa6c" />
+* <img width="2558" height="1439" alt="image" src="https://github.com/user-attachments/assets/980670de-c193-4c8d-b6d5-434510699a7c" />
+
